@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shanmukh Shashankh</h1>
 <h3 align="center">A passionate developer.</h3>
 
-<p align="center"> <a href="https://twitter.com/vemulashanmukh3" target="blank"><img src="https://img.shields.io/twitter/follow/vemulashanmukh3?logo=twitter&style=for-the-badge" alt="vemulashanmukh3" /></a> </p>
+<p align="center"> <a href="https://twitter.com/shan_shank2003" target="blank"><img src="https://img.shields.io/twitter/follow/shan_shank2003?logo=twitter&style=for-the-badge" alt="shan_shank2003" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vemulashanmukh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vemulashanmukh3" height="30" width="40" /></a>
+<a href="https://twitter.com/shan_shank2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vemulashanmukh3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shanmukhshashankh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shanmukhshashankh" height="30" width="40" /></a>
 <a href="https://instagram.com/_shan.shank_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shan.shank_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shanmukhshashankh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanmukhshashankh" height="30" width="40" /></a>
