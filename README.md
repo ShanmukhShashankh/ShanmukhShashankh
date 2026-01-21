@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanmukh Shashankh</h1>
 <h3 align="center">A passionate developer.</h3>
 
-- 📫 How to reach me **vemula.shanmukhshashankh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shan_shank2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shan_shank2003" height="30" width="40" /></a>
